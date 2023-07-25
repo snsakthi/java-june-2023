@@ -7,6 +7,7 @@ public class july8new {
         Scanner sc =new Scanner(System.in);
         System.out.println(" Enter the value");
         int value = sc.nextInt();
+        System.out.println(value );
 
     }
 }
