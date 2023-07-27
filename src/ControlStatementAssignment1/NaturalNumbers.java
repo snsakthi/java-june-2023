@@ -1,4 +1,4 @@
-package july11;
+package ControlStatementAssignment1;
 
 public class NaturalNumbers {
     public static void main(String[] args) {

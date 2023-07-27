@@ -1,4 +1,4 @@
-package july11;
+package ControlStatementAssignment1;
 
 import java.util.Scanner;
 
