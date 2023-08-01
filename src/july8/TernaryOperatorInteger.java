@@ -9,7 +9,7 @@ public class TernaryOperatorInteger {
         int number= scanner.nextInt();
 
         int integerResult =(number%2 == 0) ? 10 : 20;
-
+         //variable=<condition> ? expertion 1: expertion2;
         // IF THE NUMBER IS EVEN PRINT 10//
         //IF THE NUMBER IS ODD PRINT 20//
         System.out.println( integerResult);

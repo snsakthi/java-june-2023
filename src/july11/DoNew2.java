@@ -9,7 +9,7 @@ public class DoNew2 {
         System.out.println(" Enter your limit");
         int number = scanner.nextInt();
 
-        int counter = 0;
+        int counter = -5;
         do{
             System.out.println(counter);
             counter++;
